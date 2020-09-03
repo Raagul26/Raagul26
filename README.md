@@ -16,3 +16,6 @@
 <br><br>
 ### Stats
 <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=raagul26&show_icons=true&hide_border=true" /> <br>
+
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raagul26&layout=compact&theme=radical" />
