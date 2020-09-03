@@ -15,7 +15,6 @@
 [<img align="left" alt="gowtham758550 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/raagul26)
 <br><br>
 ### Stats
-<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=raagul26&show_icons=true&hide_border=true" /> <br>
-
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=raagul26&show_icons=true&hide_border=true" /> <br><br>
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raagul26&layout=compact&theme=radical" />
