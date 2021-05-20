@@ -15,6 +15,6 @@
 [<img align="left" alt="Raagul26 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/raagul26)
 <br><br>
 ### Stats
-<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=raagul26&show_icons=true&hide_border=true" /> <br><br>
+<!--<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=raagul26&show_icons=true&hide_border=true" /> <br><br>-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raagul26)](https://github.com/raagul26)
