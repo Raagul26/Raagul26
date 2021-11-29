@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Tkinter
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on FrontEnd Development
+- 🌱 I’m currently learning HTML & CSS
 - 👯 I’m looking to collaborate on all projects
 - 💬 Ask me about anything
 - 📫 How to reach me: Github , LinkedIn
