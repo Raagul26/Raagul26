@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on FrontEnd Development
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning Angular framework
 - 👯 I’m looking to collaborate on all projects
 - 💬 Ask me about anything
 - 📫 How to reach me: Github , LinkedIn
